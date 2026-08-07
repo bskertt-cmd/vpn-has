@@ -1,4 +1,4 @@
-#profile-title: Cat Vpn
+#profile-title: Calim Vpn
 #profile-update-interval: 1
 #announce: Выберите любой сервер.
 #subscription-userinfo: upload=133300000000; download=0; total=0; expire=4922505600
@@ -16,5 +16,4 @@ vless://0ee0aa6c-44d6-435d-b193-193a1c55090b@ss3.auragg.org:25455?type=xhttp&sec
 vless://0ee0aa6c-44d6-435d-b193-193a1c55090b@ss1.auragg.org:25764?type=xhttp&security=reality&pbk=GA0qJWY09OtUdeRXYRK7ASG0SU-GTre_Re_Kedm63Eo&fp=qq&sni=cloudflare.com&sid=0a6b4cc9e2757814&mode=packet-up&path=%2Fapi%2Fv2#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%7C%20Stockholm%20%232
 vless://0ee0aa6c-44d6-435d-b193-193a1c55090b@ss.auragg.org:25788?type=xhttp&security=reality&pbk=kAzHvbAmQ-lCDM-wR6Bu7yrAzGJtL-cfcbaGCiqSNBs&fp=qq&sni=cloudflare.com&sid=e6b9c2a4d1f80735&mode=packet-up&path=%2Fapi%2Fv2#%F0%9F%87%B8%F0%9F%87%AA%20%D0%A8%D0%B2%D0%B5%D1%86%D0%B8%D1%8F%20%7C%20Stockholm%20%233
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.154.129:13868?flow=xtls-rprx-vision&encryption=none&security=reality&sni=wp.pl&fp=firefox&pbk=YxGdcVKnOjKUtaG-E68lzI_rd9DI5RvsbLY0qyMFX2w&sid=e852dc&type=tcp&headerType=none#🇵🇱Польша
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.109.126:13868?flow=xtls-rprx-vision&encryption=none&security=reality&sni=wp.pl&fp=firefox&pbk=YxGdcVKnOjKUtaG-E68lzI_rd9DI5RvsbLY0qyMFX2w&sid=e852dc&type=tcp&headerType=none#🇵🇱Польша
-vless://0ee0aa6c-44d6-435d-b193-193a1c55090b@ah.auragg.org:25268?type=xhttp&security=reality&pbk=m6w7tQgYYVkmn8goyt3QXPBK1W4--RN2xQ89T9X9shY&fp=qq&sni=cloudflare.com&sid=e6b9c2a4d1f80735&mode=packet-up&path=%2Fapi%2Fv2#%F0%9F%87%BA%F0%9F%87%B8%20%D0%A1%D0%A8%D0%90%20%7C%20%D0%9D%D0%B5%D0%B9%D1%80%D0%BE%D1%81%D0%B5%D1%82%D0%B8%20%F0%9F%A4%96
+vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@78.17.
