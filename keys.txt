@@ -1,4 +1,4 @@
-#profile-title: Dog Vpn
+#profile-title: Calim Vpn
 #profile-update-interval: 1
 #announce: Ничего
 #subscription-userinfo: upload=499900000000; download=0; total=0; expire=4922505600
